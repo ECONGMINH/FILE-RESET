@@ -62,7 +62,7 @@ function contentShowProductSale(){
             discount:62,
             quantity:100,
             quantitySold:80,
-            image:'./assets/img/porduct-sale-content/product/5.jpg',
+            image:'./assets/img/porduct-sale-content/product/6.JPG',
             hot:false
             
         },  {
