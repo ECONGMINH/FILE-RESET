@@ -16,7 +16,7 @@ function contentShowCategoryOutStanding(){
         {
             id:3,
             name:'Giầy thể thao nam',
-            image:'./assets/img/content__category-item-outstanding/3.jpg',
+            image:'./assets/img/content__category-item-outstanding/3.JPG',
             link:'',
         },
         {
