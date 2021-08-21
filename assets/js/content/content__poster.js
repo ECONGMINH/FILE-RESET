@@ -3,17 +3,17 @@ function showPoster(){
     let poster = [
         {
             id:1,
-            image:'/assets/img/porduct-sale-content/poster/1.png',
+            image:'./assets/img/porduct-sale-content/poster/1.png',
             link:'',
         },
         {
             id:2,
-            image:'/assets/img/porduct-sale-content/poster/2.png',
+            image:'./assets/img/porduct-sale-content/poster/2.png',
             link:'',
         },
         {
             id:3,
-            image:'/assets/img/porduct-sale-content/poster/3.png',
+            image:'./assets/img/porduct-sale-content/poster/3.png',
             link:'',
         },
     ];
